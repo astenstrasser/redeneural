@@ -1,2 +1,2 @@
-# redeneural1
-Minha primeira rede neural
+# redeneural
+A simple implementation of a neural network.
