@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-print "Minha primeira rede neural"
+print "rede neural"
 
 import numpy as np
 np.random.seed(1)
